@@ -2,7 +2,7 @@
 
 ## 1. Visão geral do projeto
 
-Este projeto teve como objetivo embarcar um modelo **TinyML** treinado no **Edge Impulse** em um firmware para **Raspberry Pi Pico W**, utilizando um **MPU6050** como fonte de dados e a plataforma **Wokwi** para simulação.
+Este projeto teve como objetivo embarcar um modelo **TinyML** treinado no [**Edge Impulse**](https://studio.edgeimpulse.com/studio/961956) em um firmware para **Raspberry Pi Pico W**, utilizando um **MPU6050** como fonte de dados e a plataforma [**Wokwi**](https://wokwi.com/projects/461230442260500481) para simulação.
 
 A proposta prática foi classificar o comportamento de uma máquina em duas classes:
 
@@ -233,7 +233,7 @@ O modelo só passou a funcionar corretamente depois que os parâmetros de treino
 Os entregáveis finais do projeto são:
 
 - código-fonte do projeto em repositório Git
-- vídeo da simulação local no Wokwi
+- [vídeo da simulação local no Wokwi](https://drive.google.com/file/d/1gsYdyLHdexhCfx3g63-Bhz-SnRCF-3ow/view?usp=sharing)
 - documentação técnica deste projeto
 
 ---
